@@ -3,7 +3,7 @@ XYLCS 开放源文件/代码类著作作品许可证（XYLCS ORCL 1.1）
 根据木兰宽松许可证第二版修改
 第一版
 
-    作者信息：请作者填空
+    作者信息：XYLCS STUDIO / XIT STUDIO / LOSEF DEV LAB
 
     作者与本许可证共同声明：您对“软件”的复制、使用、修改及分发受XYLCS-ORCL许可证，第1版（“本许可证”）的如下条款的约束：
 
@@ -42,8 +42,10 @@ XYLCS 开放源文件/代码类著作作品许可证（XYLCS ORCL 1.1）
 
    6.作者独自声明
 
-      请作者填空
-
+      制作发行版时请注明原作者信息
+      XUCO版权文本：
+      (STU.)XYLCS STUDIO / XIT STUDIO / LOSEF DEV LAB 2024-NOW
+      Xain tm. 2024-NOW
 
 
    条款结束 
@@ -55,3 +57,61 @@ XYLCS 开放源文件/代码类著作作品许可证（XYLCS ORCL 1.1）
       1， 请您补充需要您填充的地方，包括作品名、作品首次发表年份以及您作为版权人的名字；
 
       2， 请您在作品包的一级目录下创建以“LICENSE”为名的文件，将整个许可证文本放入该文件中；
+
+XYLCS Studio Publishing
+XYLCS Open Source File/Code Literary Work License (XYLCS ORCL 1.1)
+Modified based on the Mulan Permissive License V2
+First Edition
+
+    Author Information: XYLCS STUDIO / XIT STUDIO / LOSEF DEV LAB
+
+    The author and this license jointly declare: Your reproduction, use, modification, and distribution of the "software" are subject to the XYLCS-ORCL License, Version 1 ("this License") under the following terms:
+
+   0. Definitions
+
+      "Work" refers to the collection of code/resources/final works licensed under "this License" constituted by "contributions".
+
+      "Contribution" refers to the works protected by copyright law licensed under "this License" by any "contributor/original author".
+
+      "Contributor/Original Author" refers to the natural person or "legal entity" licensing works protected by copyright law under "this License".
+
+      "Legal Entity" refers to the organization submitting contributions and its "affiliated entities".
+
+      "Affiliated Entity" refers to an organization that controls, is controlled by, or is under common control with the acting party under "this License", where control means at least 50% of the voting rights, capital, or other valuable securities directly or indirectly controlled, of course, subject to the actual situation + author's additional instructions.
+
+   1. Grant of Copyright License
+
+      Each "contributor" grants you a perpetual, worldwide, free, non-exclusive, irrevocable copyright license under "this License", subject to the author's requirements and the license, to reproduce, use, modify, and distribute their "contribution", whether modified or unmodified.
+
+   2. Grant of Patent License
+
+      Each "contributor" grants you a perpetual, worldwide, free, non-exclusive, irrevocable (except as stated in this section) patent license under "this License", to make, have made, use, offer to sell, sell, import, or otherwise transfer their "contribution". This patent license only covers the "contributor's" "contribution" itself or combinations of their "contribution" and the "work" as of the date the "contribution" is licensed, which would inevitably infringe on their patent claims. It does not cover modifications of the "contribution" or combinations that include the "contribution". If you or your "affiliated entity" initiate patent litigation (including a cross-claim or counterclaim) or other patent enforcement actions against anyone, alleging that "work" or a "contribution" infringes a patent, this patent license will terminate.
+
+   3. Trademark License
+
+      "This License" provides no trademark rights to the "contributor's" trademarks, service marks, or product names.
+
+   4. Distribution Restrictions
+
+      You may modify and independently distribute a product based on the "contributor's" open-source product, but you must follow the original author's requirements, and the original author has the final choice. You must retain the copyright, trademarks, patents, and disclaimers in the "work".
+
+   5. Disclaimer and Limitation of Liability
+
+      "Work" and its "contributions" are provided "as is" without any express or implied warranties. In no event shall the "contributors" or copyright holders be liable for any direct, indirect, incidental, or consequential damages arising out of the use of the "software" or its "contributions", however caused and under any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this "software", even if advised of the possibility of such damage.
+
+   6. Author's Sole Declaration
+
+      When creating a distribution version, please indicate the original author information.
+      XUCO copyright text:
+      (STU.) XYLCS STUDIO / XIT STUDIO / LOSEF DEV LAB 2024-NOW
+      Xain tm. 2024-NOW
+
+   End of Terms 
+
+   How to Apply Version 1 of the License to Your Work?
+   
+   If you wish to apply the XYLCS-ORCL License, Version 1.1, to your new work, for the convenience of recipients, it is recommended that you complete the following three steps:
+
+      1. Please fill in the required fields, including the work name, the first publication year of the work, and your name as the copyright owner;
+
+      2. Please create a file named "LICENSE" in the root directory of your work package and put the entire license text into that file;
